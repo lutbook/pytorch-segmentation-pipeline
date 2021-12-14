@@ -15,8 +15,9 @@ Example data directory is included.
 
 -------------------------------------------------------------------------------------------------------------
 Model U-Net & DeepLabV3+ architectures are from source in the below.
-U-Net architecture's source: nikhilroxtomar
-DeepLabV3+ architecture's source: jfzhang95 
+
+U-Net architecture's source: nikhilroxtomar[here](https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/tree/main/PyTorch)
+DeepLabV3+ architecture's source: jfzhang95[here](https://github.com/jfzhang95/pytorch-deeplab-xception)
 
 [1]. Olaf Ronneberger, Philipp Fischer, Thomas Brox, "U-Net: Convolutional Networks for Biomedical Image Segmentation", (2015), arXiv:1505.04597 [cs.CV].
 https://arxiv.org/pdf/1505.04597.pdf
