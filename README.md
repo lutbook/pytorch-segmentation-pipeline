@@ -5,12 +5,12 @@ For purpose of my workflow simplification,
 implementation of model training and inference pipeline.  
 Segmentation models are U-Net[1] and DeepLabV3+[2].  
 
--Each experiments separeted in directory. (I.e., default exp0). 
--Experiment results are in one directory: model weights, logs, infernce results are stored in the experiment directory.  
--Inferences on images and videos are done in similar manner, no need to point out. Also in pointed experiment.  
+-Each experiments separeted in directory. (I.e., default exp0)     
+-Experiment results are in one directory: model weights, logs, infernce results are stored in the experiment directory    
+-Inferences on images and videos are done in similar manner, no need to point out. Also in pointed experiment    
 
-For execution command, check main.py's arguments.
-Example data directory is included.
+For execution command, check main.py's arguments.  
+Example data directory is included.  
 
 
 -------------------------------------------------------------------------------------------------------------
